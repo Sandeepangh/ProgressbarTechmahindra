@@ -29,7 +29,7 @@ Requirements:
   - Bootstrap [ one of my favorite framework to avoid responsive issue and create easly 'flat' and 'modern' website ]
   - Bootstrap-select [ one important plugin to integrate 'selectpicker' in bootstrap style ]
   - reactive [ use this important DOM-Manipulator framework was the main goal of this task ]
-  
+  # index.html file is under app folder
 
 
   
