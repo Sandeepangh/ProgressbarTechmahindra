@@ -1,0 +1,18 @@
+{
+  "name": "yo-boo",
+  "version": "1.0.0",
+  "dependencies": {
+    "bootstrap-select": "^1.9.4",
+    "ractive": "reactive#^0.7.3",
+    "jquery": "^2.2.0",
+    "bootstrap": "^3.3.6"
+  },
+"overrides" : {
+    "bootstrap" : {
+         "main": [
+            "dist/css/bootstrap.css",
+            "dist/js/bootstrap.js"
+          ]
+    }
+  }
+}
